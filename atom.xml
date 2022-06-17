@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>阿通</title>
   
   
   <link href="http://archercool.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://archercool.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>AoranLi</name>
     
   </author>
   
