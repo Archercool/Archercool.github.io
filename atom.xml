@@ -6,7 +6,7 @@
   <link href="https://www.aoranli.cn/atom.xml" rel="self"/>
   
   <link href="https://www.aoranli.cn/"/>
-  <updated>2022-06-20T05:36:35.362Z</updated>
+  <updated>2022-06-20T06:11:46.778Z</updated>
   <id>https://www.aoranli.cn/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>FIT1050笔记</title>
-    <link href="https://www.aoranli.cn/2022/06/20/a/"/>
-    <id>https://www.aoranli.cn/2022/06/20/a/</id>
+    <link href="https://www.aoranli.cn/2022/06/20/PDF02/PDF01/"/>
+    <id>https://www.aoranli.cn/2022/06/20/PDF02/PDF01/</id>
     <published>2022-06-20T05:11:03.000Z</published>
-    <updated>2022-06-20T05:36:35.362Z</updated>
+    <updated>2022-06-20T06:11:46.778Z</updated>
     
-    <content type="html"><![CDATA[<object data="https://github.com/Archercool/aoranli.github.io/blob/17fc17d285117082357bc5f05c1fe4e46f566145/FIT1050%E7%AC%94%E8%AE%B0.pdf" type="application/pdf" width="700px" height="700px">    <embed src="https://github.com/Archercool/aoranli.github.io/blob/17fc17d285117082357bc5f05c1fe4e46f566145/FIT1050%E7%AC%94%E8%AE%B0.pdf">        <p><a href="https://github.com/Archercool/aoranli.github.io/blob/17fc17d285117082357bc5f05c1fe4e46f566145/FIT1050%E7%AC%94%E8%AE%B0.pdf">Download PDF</a></p>    </embed></object>]]></content>
+    <content type="html"><![CDATA[<embed src="./FIT1050笔记.pdf" width="100%" height="750" typed="application/pdf">]]></content>
     
     
       
       
-    <summary type="html">&lt;object data=&quot;https://github.com/Archercool/aoranli.github.io/blob/17fc17d285117082357bc5f05c1fe4e46f566145/FIT1050%E7%AC%94%E8%AE%B0.pdf&quot; t</summary>
+    <summary type="html">&lt;embed src=&quot;./FIT1050笔记.pdf&quot; width=&quot;100%&quot; height=&quot;750&quot; typed=&quot;application/pdf&quot;&gt;</summary>
       
     
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>通过Hexo搭建个人博客后的第一篇文章</title>
-    <link href="https://www.aoranli.cn/2022/06/18/hello-world/"/>
-    <id>https://www.aoranli.cn/2022/06/18/hello-world/</id>
+    <link href="https://www.aoranli.cn/2022/06/18/PDF02/hello-world/"/>
+    <id>https://www.aoranli.cn/2022/06/18/PDF02/hello-world/</id>
     <published>2022-06-17T16:05:21.427Z</published>
     <updated>2022-06-19T07:01:10.304Z</updated>
     
