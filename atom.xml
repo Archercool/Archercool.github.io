@@ -6,7 +6,7 @@
   <link href="https://www.aoranli.cn/atom.xml" rel="self"/>
   
   <link href="https://www.aoranli.cn/"/>
-  <updated>2022-06-19T07:01:10.304Z</updated>
+  <updated>2022-06-20T05:12:14.186Z</updated>
   <id>https://www.aoranli.cn/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FIT1050笔记</title>
+    <link href="https://www.aoranli.cn/2022/06/20/a/"/>
+    <id>https://www.aoranli.cn/2022/06/20/a/</id>
+    <published>2022-06-20T05:11:03.000Z</published>
+    <updated>2022-06-20T05:12:14.186Z</updated>
+    
+    <content type="html"><![CDATA[<p>##FIT1050笔记<br><object data="https://drive.google.com/file/d/1zO0uHYYTrC-oFMxLqsOLOiTK4DVON3j5/view?usp=sharing" type="application/pdf" width="700px" height="700px"><br>    <embed src="https://drive.google.com/file/d/1zO0uHYYTrC-oFMxLqsOLOiTK4DVON3j5/view?usp=sharing"><br>        <p> <a href="https://drive.google.com/file/d/1zO0uHYYTrC-oFMxLqsOLOiTK4DVON3j5/view?usp=sharing">Download PDF</a></p><br>    </embed><br></object></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##FIT1050笔记&lt;br&gt;&lt;object data=&quot;https://drive.google.com/file/d/1zO0uHYYTrC-oFMxLqsOLOiTK4DVON3j5/view?usp=sharing&quot; type=&quot;application/pdf&quot; w</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>通过Hexo搭建个人博客后的第一篇文章</title>
