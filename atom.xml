@@ -3,11 +3,11 @@
   <title>阿通</title>
   
   
-  <link href="https://www.aoranli.cn/atom.xml" rel="self"/>
+  <link href="https://archercool.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.aoranli.cn/"/>
+  <link href="https://archercool.github.io/"/>
   <updated>2022-06-20T06:31:24.737Z</updated>
-  <id>https://www.aoranli.cn/</id>
+  <id>https://archercool.github.io/</id>
   
   <author>
     <name>AoranLi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>FIT1050笔记</title>
-    <link href="https://www.aoranli.cn/2022/06/20/FIT1050%E7%AC%94%E8%AE%B0/"/>
-    <id>https://www.aoranli.cn/2022/06/20/FIT1050%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://archercool.github.io/2022/06/20/FIT1050%E7%AC%94%E8%AE%B0/"/>
+    <id>https://archercool.github.io/2022/06/20/FIT1050%E7%AC%94%E8%AE%B0/</id>
     <published>2022-06-20T05:11:03.000Z</published>
     <updated>2022-06-20T06:31:24.737Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>通过Hexo搭建个人博客后的第一篇文章</title>
-    <link href="https://www.aoranli.cn/2022/06/18/hello-world/"/>
-    <id>https://www.aoranli.cn/2022/06/18/hello-world/</id>
+    <link href="https://archercool.github.io/2022/06/18/hello-world/"/>
+    <id>https://archercool.github.io/2022/06/18/hello-world/</id>
     <published>2022-06-17T16:05:21.427Z</published>
     <updated>2022-06-19T07:01:10.304Z</updated>
     
